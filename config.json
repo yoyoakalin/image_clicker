@@ -1,0 +1,6 @@
+{
+    "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "target_text": "文本",
+    "region": "1188,555,534,313",
+    "interval": 10
+}
